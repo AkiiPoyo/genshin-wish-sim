@@ -29,7 +29,6 @@ the only amount that makes sense is 6%.
 this means that when a player reaches the 74th pull, their chance for a 5* is increased by 6%, so 74th pull = 6.6%
 so if every next pull gains the same amount of chance, we would have the 75th pull with 12.6%, the 76th with 18.6% and so on.
 if every pull has an increased chance of 6%, we reach 96.6% at 89, and the first time we reach ~100% is at the 90th pull.
-(Full list at: https://ibb.co/QDcc5NJ)
 
 so if we consider soft pity, our per-pull probability looks like Figure 3) and our cummulative probability like Figure 4),
 which looks a lot more like our actual player data!
